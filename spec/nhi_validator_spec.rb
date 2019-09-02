@@ -1,4 +1,4 @@
-require 'nhi-validator'
+require 'nhi_validator'
 
 describe NHIValidator do
   let(:valid_nhis) { %w[ZZZ0016 zzz0024 CGC2720 EPT6335] }

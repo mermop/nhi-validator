@@ -1,4 +1,4 @@
-require 'nhi-validator/version'
+require 'nhi_validator/version'
 
 # From https://www.health.govt.nz/system/files/documents/pages/nhi_validation_routine_march_2017.doc:
 
